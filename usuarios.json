@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "daniel",
+        "apellido": "gonzales",
+        "edad": 21,
+        "ciudad": "veracruz"
+    },
+    {
+        "nombre": "jesus",
+        "apellido": "gamboa sanchez",
+        "edad": 24,
+        "ciudad": "ciudad de mexico"
+    },
+    {
+        "nombre": "maria",
+        "apellido": "gonzales flores",
+        "edad": 21,
+        "ciudad": "orizaba"
+    }
+]
