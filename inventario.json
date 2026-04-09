@@ -1,0 +1,22 @@
+{
+    "tomate": {
+        "cantidad": 1500,
+        "precio": 25.0
+    },
+    "sandia": {
+        "cantidad": 459,
+        "precio": 15.0
+    },
+    "cebolla": {
+        "cantidad": 1450,
+        "precio": 25.0
+    },
+    "celular": {
+        "cantidad": 250,
+        "precio": 7000.0
+    },
+    "takis": {
+        "cantidad": 350,
+        "precio": 20.0
+    }
+}
